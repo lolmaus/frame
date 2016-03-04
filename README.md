@@ -5,6 +5,7 @@ A user system API for Node.js. Bring your own front-end.
 [![Build Status](https://travis-ci.org/jedireza/frame.svg?branch=master)](https://travis-ci.org/jedireza/frame)
 [![Dependency Status](https://david-dm.org/jedireza/frame.svg?style=flat)](https://david-dm.org/jedireza/frame)
 [![devDependency Status](https://david-dm.org/jedireza/frame/dev-status.svg?style=flat)](https://david-dm.org/jedireza/frame#info=devDependencies)
+[![Gitter Chat](https://badges.gitter.im/jedireza/frame.png)](https://gitter.im/jedireza/frame)
 
 
 ## Technology
